@@ -5,7 +5,7 @@ function Footer() {
   return (
     <footer className="footer">
       <div className="bottom">
-        Clicky Game! <img alt="react" src="assets/images/react.svg" />
+        Shantell's Memory Game! <img alt="react" src="assets/images/react.svg" />
       </div>
     </footer>
   );
