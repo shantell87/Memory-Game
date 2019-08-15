@@ -1,0 +1,62 @@
+[
+    {
+    "id": 1,
+    "image": "/assets/images/bee.jpg",
+    "clicked": false
+    },
+    {
+    "id": 2,
+    "image": "/assets/images/blue.png",
+    "clicked": false
+    },
+    {
+    "id": 3,
+    "image": "/assets/images/blue2.jpg",
+    "clicked": false
+    },
+    {
+    "id": 4,
+    "image": "/assets/images/frog.jpg",
+    "clicked": false
+    },
+    {
+    "id": 5,
+    "image": "/assets/images/light-blue.jpg",
+    "clicked": false
+    },
+    {
+    "id": 6,
+    "image": "/assets/images/orange.jpg",
+    "clicked": false
+    },
+    {
+    "id": 7,
+    "image": "/assets/images/pink.jpg",
+    "clicked": false
+    },
+    {
+    "id": 8,
+    "image": "/assets/images/purple.png",
+    "clicked": false
+    },
+    {
+    "id": 9,
+    "image": "/assets/images/red.jpg",
+    "clicked": false
+    },
+    {
+    "id": 10,
+    "image": "/assets/images/red2.jpg",
+    "clicked": false
+    },
+    {
+    "id": 11,
+    "image": "/assets/images/yellow.jpg",
+    "clicked": false
+    },
+    {
+    "id": 12,
+    "image": "/assets/images/yellow2.png",
+    "clicked": false
+    }
+]
