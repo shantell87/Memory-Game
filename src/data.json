@@ -6,7 +6,7 @@
     },
     {
     "id": 2,
-    "image": "/assets/images/blue.png",
+    "image": "/assets/images/pink.png",
     "clicked": false
     },
     {
@@ -21,7 +21,7 @@
     },
     {
     "id": 5,
-    "image": "/assets/images/light-blue.jpg",
+    "image": "/assets/images/light-blue.png",
     "clicked": false
     },
     {
@@ -31,7 +31,7 @@
     },
     {
     "id": 7,
-    "image": "/assets/images/pink.jpg",
+    "image": "/assets/images/pink2.jpg",
     "clicked": false
     },
     {
